@@ -29,3 +29,14 @@ body {
 
 /* Desktop */
 @media screen and (width >=1440px) {}
+
+
+/* CSS FRONTEND MENTOR */
+.attribution {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
