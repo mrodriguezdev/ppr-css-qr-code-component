@@ -44,6 +44,10 @@ body {
     background-color: var(--white);
     border-radius: 1.4rem;
     padding: 1.6rem;
+    max-width: 30rem;
+    width: 100%;
+    width: min(100%, 30rem);
+    margin: 0 auto;
 }
 
 .card img {
